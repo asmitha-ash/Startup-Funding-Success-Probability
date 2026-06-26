@@ -1,0 +1,7 @@
+AppData/
+Cookies/
+Recent/
+Local Settings/
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
